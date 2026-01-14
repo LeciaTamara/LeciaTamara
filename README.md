@@ -53,7 +53,7 @@ Graduada em Análise e Desenvolvimento de Sistemas pelo o Instituto Federal de C
  - <img width="45" height="45" alt="Cabeça de uma pessoa com uma engrenagem representando o cérebro e uma lâmpada ao lado" src="https://github.com/user-attachments/assets/8e003b0d-caaa-4b50-84f1-ffe87920310e" /> Raciocínio lógico
  - <img width="40" height="40" alt="Lista de organização" src="https://github.com/user-attachments/assets/992a209b-e26e-4f71-ba55-1ee7a8a18200" /> Organizção
  - <img width="40" height="40" alt="Cabeça de uma pessoa com setas apontando para cima e para os lados" src="https://github.com/user-attachments/assets/caa2b746-47aa-4804-8099-769368cd20da" /> Proatividade
- - <img width="40" height="40" alt="Folha com uma lupa e dois símbolos de interrogação" src="https://github.com/user-attachments/assets/a7779088-0ac6-4de7-b2bf-0872da3e1493" /> Curiosidade
+ - <img width="40" height="40" alt="Folha com uma lupa e dois símbolos de interrogação" src="https://github.com/user-attachments/assets/a7779088-0ac6-4de7-b2bf-0872da3e1493" /> Curiosidade intelectual
  - <img width="40" height="40" alt="Pessoa lendo um livro em volta de um círculo com as linhas em forma de setas" src="https://github.com/user-attachments/assets/419b78ef-89df-40db-a630-37f4e028d0b5" /> Aprendizado contínuo
 
    
